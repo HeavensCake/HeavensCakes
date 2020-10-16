@@ -1,0 +1,55 @@
+body{
+    padding:0;
+    margin:0
+}
+*{
+    padding:0;
+    margin:0
+}
+.bg{
+    background-image: url("./cake.jpg");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+    margin-top: 0;
+    padding:0;
+    margin:0
+}
+.title{
+    text-align: center;
+    padding-top: 10vh;
+    padding-bottom: 3vh;
+}
+.owner{
+    margin-top: 10vh;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 8px;
+    color:black;
+    text-align: center;
+    padding:10;
+}
+.link{
+    text-align:center;
+    margin-left:10;
+    margin-right:10;
+    font-weight: 700;
+    font-size: 35;
+}
+.button{
+    margin-top: 20;
+}
+.btnText{
+  text-align: center;
+  margin-top: 40px;
+
+}
+.dc{
+ text-decoration: none;
+ border:1px black solid;
+ background-color: #ff4757;
+ border-radius: 5px;
+ padding: 10px;
+ margin-right: 10px;
+ color:black
+}
